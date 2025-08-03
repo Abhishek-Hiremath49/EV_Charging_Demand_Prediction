@@ -71,8 +71,8 @@ ev-charging-demand-prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ev-charging-demand-prediction.git
-cd ev-charging-demand-prediction
+git clone https://github.com/Abhishek-Hiremath49/EV_Charging_Demand_Prediction.git
+cd EV_Charging_Demand_Prediction
 ```
 
 ### 2. Install Requirements
@@ -128,11 +128,11 @@ streamlit run app.py
 
 ## 🤝 Contributors
 
-* [Your Name](https://github.com/yourusername)
+* [Abhishek Hiremath](https://github.com/Abhishek-Hiremath49)
 
 ---
 
 ## 📬 Contact
 
 For questions, feedback, or collaboration:
-📧 [your.email@example.com](mailto:your.email@example.com)
+📧 (abhishekhiremath4949@gmail.com)
